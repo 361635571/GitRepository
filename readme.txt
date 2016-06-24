@@ -9,3 +9,4 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 test branch
 修复bug
+Bug分支
